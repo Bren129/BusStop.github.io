@@ -9,7 +9,7 @@ Here in Week 9 we developed a real time simulation of bus stop transfers from ca
 
 ## How to run:
 
-- 
+- Load the HTML file into a compatible browser and then click "Show Stops Between MIT and Harvard". Doing this will activate the real time marker, and show you all stops along the way. 
 
 
     
